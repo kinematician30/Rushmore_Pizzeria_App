@@ -1,0 +1,26 @@
+[
+    {
+        "order_datetime": "2025-06-18-22:16:43",
+        "pizza_type": "Pepperoni",
+        "order_type": "Slice",
+        "quantity": 6,
+        "total_price": 3.0,
+        "discount_applied": false
+    },
+    {
+        "order_datetime": "2025-06-18-22:16:57",
+        "pizza_type": "Cheese",
+        "order_type": "Box",
+        "quantity": 7,
+        "total_price": 31.5,
+        "discount_applied": true
+    },
+    {
+        "order_datetime": "2025-06-18-22:17:26",
+        "pizza_type": "Deluxe",
+        "order_type": "Box",
+        "quantity": 10,
+        "total_price": 48.0,
+        "discount_applied": true
+    }
+]
