@@ -5,3 +5,5 @@ Developing a CLI application for Pizza order's for RushMore
 * `json` - Simple database for storing orders.
 
 * `datetime` - For orders timestamp.
+
+* `os` - For clearing the console screen.
