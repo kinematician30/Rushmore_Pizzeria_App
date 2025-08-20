@@ -7,3 +7,5 @@ Developing a CLI application for Pizza order's for RushMore
 * `datetime` - For orders timestamp.
 
 * `os` - For clearing the console screen.
+
+![image of my libraries used](images/image.png)
